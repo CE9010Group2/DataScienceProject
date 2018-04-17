@@ -1,5 +1,3 @@
-#CE9010Group2
-
 # DataScienceProject
 
 # How Close Are NBS Students To Their Classmates?
