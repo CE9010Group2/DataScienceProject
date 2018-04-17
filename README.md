@@ -1,5 +1,3 @@
-#CE9010Group2
-
 # DataScienceProject
 
 # How Close Are NBS Students To Their Classmates?
@@ -31,4 +29,4 @@ This project goes through the following steps:
 2) Data Exploration
 3) Pre-Processing
 4) Data Analysis 
-# DataScienceProject
+
